@@ -1,0 +1,28 @@
+body{
+    background-color: hsl(47, 88%, 63%) !important;
+    font-family: 'Figtree', sans-serif !important;
+}
+
+.bbtn{
+    border: none !important;
+    font-size: 12px !important;
+    padding: 4px !important;
+    background-color: hsl(47, 88%, 63%) !important;
+    font-weight: bold !important;
+    margin-top: 10px;
+}
+
+.published-text{
+    font-size: 12px;
+    margin-top: 6px;
+}
+.heading{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+
+}
+.card{
+    box-shadow: 5px 5px 1px 5px #0c0c0c;
+    border-top: 0.1px solid #0c0c0c !important;
+}
